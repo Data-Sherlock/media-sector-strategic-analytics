@@ -29,6 +29,7 @@ DIVIDE(Readiness + Decline + EngagementGap, 3)
 ```
 
 ## 🔍 Strategic Insights
+https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/6b1284ded41d7b075ff95a6a714fac2f9ad133a0/Ad%20Revenue.png
 
 **The Kanpur Paradox:** Identified **Kanpur** as the #1 relaunch candidate (**53.07% Priority Score**). Despite a current UX gap, it boasts the highest infrastructure readiness (**75.10%**), representing the greatest "unlocked" potential.
 
