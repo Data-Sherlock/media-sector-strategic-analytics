@@ -31,6 +31,9 @@ DIVIDE(Readiness + Decline + EngagementGap, 3)
 ## 🔍 Strategic Insights
 ![Image Alt](https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/66864d2620a2354b8f64d0b85a5566ecd99f396e/Ad%20Revenue.png)
 
+![Image Alt](https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/73d16b16e165dee56e9b6b8d97ee01abb6f2e9f6/Digital%20Perfromance%20.png)
+
+
 **The Kanpur Paradox:** Identified **Kanpur** as the #1 relaunch candidate (**53.07% Priority Score**). Despite a current UX gap, it boasts the highest infrastructure readiness (**75.10%**), representing the greatest "unlocked" potential.
 
 **Revenue Anchor:** Ad revenue (**1.60bn**) remains heavily reliant on **Government (478M)** and **Real Estate (472M)**). Conversely, high-growth sectors like FMCG show a rapid exit from print, signaling a need for digital-native ad units.
